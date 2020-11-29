@@ -1,3 +1,3 @@
 First
-<<<<<<< HEAD
-3rd3rd3rd
+3rd
+4rd
